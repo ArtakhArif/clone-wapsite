@@ -213,7 +213,6 @@ background-color:darkgoldenrod;
 margin-left: 60px;
 margin-top: 50px;
 border-radius: 30px;
-overflow: hidden;
  }
  .containe{
   display: flex;
@@ -228,7 +227,6 @@ overflow: hidden;
     margin-left: 60px;
     margin-top: 50px;
     border-radius: 30px;
-    overflow: hidden;
    }
    .contain{
     display: flex;
@@ -243,7 +241,6 @@ overflow: hidden;
       margin-left: 60px;
       margin-top: 50px;
       border-radius: 30px;
-      overflow: hidden;
      }
     .contai{
       display: flex;
@@ -258,7 +255,6 @@ overflow: hidden;
         margin-left: 60px;
         margin-top: 50px;
         border-radius: 30px;
-        overflow: hidden;
        }
         .conta{
         display: flex;
@@ -273,7 +269,6 @@ overflow: hidden;
           margin-left: 60px;
           margin-top: 50px;
           border-radius: 30px;
-          overflow: hidden;
          }
          .cont{
           display: flex;
@@ -288,14 +283,12 @@ overflow: hidden;
             margin-left: 60px;
             margin-top: 50px;
             border-radius: 30px;
-            overflow: hidden;
            }
          h {
           margin-left: 30px;
           margin-top: 10px;
           font-size: 40px;
           color: #fff;
-          overflow: hidden;
         }
         
         p {
@@ -1359,39 +1352,32 @@ width: 660px;
   .item{
     width: 620px;
     height: 580px;
-    overflow: hidden;
   }
   .ite{
     width: 620px;
     height: 580px;
-    overflow: hidden;
   }
   .it{
     width: 620px;
     height: 680px;
-    overflow: hidden;
   }
   .i{
     width: 620px;
     height: 680px;
-    overflow: hidden;
   }
   .tem{
     width: 620px;
     height: 600px;
-    overflow: hidden;
   }
   .em{
     width: 620px;
     height: 600px;
-    overflow: hidden;
   }
    
   lii a{
     color: darkcyan;
     font-size: 40px;
     margin-left: 200px;
-    
   
   }      
   liii a{
@@ -1478,38 +1464,32 @@ width: 200px;
   }
   .box13 a{
     font-size: 5;
-    
   }
 
  }
  @media only screen and (max-width:1075px){
 .cotainer{
   margin-left: -80px;
-  overflow: hidden;
 }
 .containee{
   margin-left: 60px;
-  overflow: hidden;
 }
  }
  @media only screen and (max-width:866px){
   .cotainer{
    margin-left: -250px;
-   overflow: hidden;
   }
   .containee{
     margin-left: 250px;
-    overflow: hidden;
   }
  }
  @media only screen and (max-width:426px){
   .cotainer{
    margin-left: -330px;
-   overflow: hidden;
+  
   }
   .containee{
     margin-left: 100px;
-    overflow: hidden;
   }
  }
-     
+ 
